@@ -1,20 +1,3 @@
-# ERC20 Token
-
-This is an example in solidity language of an ERC-20 standard Ethereum Token, mintable and burnable, with owner access permissions and module pausable.
-
-## Erc-20
-
-ERC-20 is a standard interface for tokens. 
-
-The following standard allows for the implementation of a standard API for tokens within smart contracts. 
-
-More Information about Solidity Language and ERC-20 Standard:
-
-- [Solidity](https://solidity.readthedocs.io/en/v0.6.8/): `v0.6.8`
-- [ERC-20](https://eips.ethereum.org/EIPS/eip-20)
-
-## Erc-20 Methods
-
 ### Constructor
 
 The `constructor` function set the `name`, `symbol`, `decimals` and `totalSupply` of the token.
